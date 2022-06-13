@@ -49,6 +49,6 @@ The  DDIs prediction performance AUROC&AUPR&AP&F1 score :
 
 | Dataset | AUROC | AUPR | AP | F1 |
 
-| :--- | :------: | :------: |
+| :-------: | :-------: | :------: | :---: | :---: |
 
 | DDI | 0.932 | 0.934 | 0.934 | 0.802|
