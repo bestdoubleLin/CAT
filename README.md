@@ -26,7 +26,9 @@ For training, we used a server with two Intel(R) Xeon(R) Gold 5215 2.5 GHz CPUs,
 ## 3.  Instructions for running the CAT
 To run CAT on DDI network, execute the following command from the project home directory:
 
-`python train.py`
+```
+python train.py
+```
 
 **Input:**
 
